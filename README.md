@@ -3,10 +3,11 @@
 # CyberLab Incident Tracker
 
 # Members
-1. Nicolas
+1. Nicolas Cholin
 2. Batex
-3. Bekassyl
-4. Ashmvl
+3. Bekassyl Adenov
+4. Rofig Ashumov
+5. Ayman Saifan
  
 # Project Description: 
 The CyberLab Incident Tracker is a comprehensive tool designed to enhance the safety and security of laboratory environments by allowing users to report incidents efficiently and transparently. This system is equipped with user-friendly interfaces and robust functionalities to ensure that every incident is recorded, tracked, and addressed promptly.
